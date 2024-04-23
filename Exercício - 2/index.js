@@ -5,12 +5,13 @@
 
 // A cada 1 segundo, exiba detalhes do computador, incluindo: Nome do sistema operacional.Arquitetura do sistema.Modelo do processador.Tempo de atividade do sistema.Uso de memória (%).
 // Crie uma outra função que:
-// A cada 1 segundo, registre os detalhes exibidos no arquivo "log.txt" localizado na pasta "log" na raiz do sistema de arquivos(Obs: decidir mudar esse quesito).
+// A cada 1 segundo, registre os detalhes exibidos no arquivo "log.txt" localizado na pasta "log" na raiz do sistema de arquivos(Obs decidir mudar esse quesito).
 // Cada registro deve ser acrescentado ao arquivo, separado por uma linha em branco.
-// Crie a pasta "log" na raiz do sistema de arquivos se ela não existir.(Obs: decidir mudar esse quesito)
+// Crie a pasta "log" na raiz do sistema de arquivos se ela não existir (Obs decidir mudar esse quesito).
 
 const os = require("node:os");
 const fs = require("node:fs");
+const path = require("node:path");
 const systemPlatformMap = {
   win32: "Windows",
   linux: "Linux",
