@@ -1,0 +1,14 @@
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:22 | Uso de Memória RAM: 3.26 GB / 3.86 GB (84 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:23 | Uso de Memória RAM: 3.26 GB / 3.86 GB (84 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:24 | Uso de Memória RAM: 3.27 GB / 3.86 GB (85 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:25 | Uso de Memória RAM: 3.24 GB / 3.86 GB (84 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:26 | Uso de Memória RAM: 3.25 GB / 3.86 GB (84 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:27 | Uso de Memória RAM: 3.26 GB / 3.86 GB (84 %)
+---
+DETALHES DO SISTEMA | Sistema Operacional: Windows | Arquitetura: x64 | Modelo do Processador: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz | Tempo de Atividade do Sistema: 6:0:26:28 | Uso de Memória RAM: 3.17 GB / 3.86 GB (82 %)
+---
