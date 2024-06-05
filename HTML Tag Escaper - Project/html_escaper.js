@@ -74,7 +74,7 @@ function run() {
     console.log(
       "Argumentos não informados! Por favor, informe os caminhos dos arquivos para realizar o escape."
     );
-    userInteraction();
+    userInteration();
   }
 }
 
