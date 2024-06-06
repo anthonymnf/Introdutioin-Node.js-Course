@@ -76,6 +76,7 @@ function ask(question) {
 }
 
 async function userInteration() {
+  console.clear();
   console.log("---------------------");
   console.log("Node.js Manager Notes v1.0");
   console.log("---------------------\n");
@@ -84,23 +85,32 @@ async function userInteration() {
   console.log("2 - Listar todas as anotações salvas.");
   console.log("3 - Ler anotação.");
   console.log("4 - Remover anotação.");
+  console.log("5 - Sair.");
   const option = await ask("Qual opção você deseja?\n");
   switch (option) {
     case "1":
       const text = await ask("Informe o texto da anotação: ");
       const noteName = await ask("Informe o nome da anotação: ");
       createNote(text, noteName);
+      userInteration();
       break;
     case "2":
       listNotes();
+      userInteration();
       break;
     case "3":
       const fileName = await ask("Informe o nome da anotação: ");
       readFile(fileName);
+      userInteration();
       break;
     case "4":
       const removeNoteName = await ask("Informe o nome da anotação: ");
       deleteFile(removeNoteName);
+      userInteration();
+      break;
+    case "5":
+      console.log("Saindo...");
+      process.exit(1);
       break;
 
     default:
